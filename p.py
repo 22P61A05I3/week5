@@ -1,2 +1,2 @@
 print('GIT')
-print('changed to time ')
+print('changed time ')
